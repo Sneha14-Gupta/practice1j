@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding:0;
+  }
+  html,body{
+    height:100%;
+    width:100%;
+  }
+body,h1{
+    color:rgb(126, 197, 197);
+}
+h1{
+    color: rgb(100, 51, 146);
+    font-family: monospace;
+}
